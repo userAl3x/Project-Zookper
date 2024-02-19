@@ -1,2 +1,2 @@
 # Project-Zookper
-Project Zookeper Kotlin
+Proyecto Project Zookeper realizado en lenguaje Kotlin.
